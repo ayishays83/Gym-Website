@@ -20,9 +20,21 @@ Features:
 
 4. About Us Section: This section provides information about the gym. 
 
-5. Contact Us Section: Visitors can easily contact the gym through the contact form provided in this section. 
+5. Contact Us Section: Visitors can easily contact the gym through the contact form provided in this section.
 
-Conclusion:
+# Output:
+LAPTOP VIEW
+
+https://github.com/ayishays83/Gym-website/assets/84435965/1fead882-9581-401b-af3b-a8b6d4432a01
+
+MOBILE VIEW
+
+
+
+https://github.com/ayishays83/Gym-website/assets/84435965/ec3f4986-f0bf-4d49-b679-965c58ce5da8
+
+
+# Conclusion:
 
 The Gym Website is a well-designed and functional website created using HTML and CSS. It provides an engaging user experience, promoting gym services and encouraging visitor interaction. 
 
